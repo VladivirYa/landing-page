@@ -1,0 +1,112 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a {
+  color: rgba(0, 60, 255, 0.86); }
+
+p,
+body .main_footer {
+  color: #888;
+  letter-spacing: 0px; }
+
+.color_element {
+  color: rgba(0, 60, 255, 0.86); }
+
+.color_bg {
+  background-color: rgba(0, 60, 255, 0.86); }
+
+.color_border {
+  border-color: rgba(0, 60, 255, 0.86); }
+
+.bg_light {
+  background-color: #FAFAFA; }
+
+.bg_dark {
+  background-color: #222;
+  color: #fff; }
+  .bg_dark .s_descr::after {
+    background-color: #fff; }
+
+a {
+  color: rgba(0, 60, 255, 0.86); }
+
+.top_menu a:hover {
+  color: #0088c7;
+  background-color: rgba(255, 255, 255, 0.05); }
+.top_menu a {
+  letter-spacing: 4px; }
+
+.top_text p {
+  color: rgba(0, 60, 255, 0.86);
+  letter-spacing: 5px; }
+
+.personal_header {
+  letter-spacing: 3px; }
+
+.s_descr {
+  letter-spacing: 5px; }
+  .s_descr::after {
+    background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px; }
+
+.s_about p:nth-child(even) {
+  color: rgba(0, 60, 255, 0.86); }
+
+.resume_container h3 {
+  color: #222;
+  letter-spacing: 1px;
+  font-size: 18px;
+  font-weight: 600; }
+.resume_container .left .resume_description strong {
+  margin-left: 10px; }
+.resume_container .right .resume_description strong {
+  margin-right: 10px; }
+.resume_container .resume_icon {
+  font-size: 40px;
+  margin-bottom: 35px; }
+.resume_container .year {
+  display: inline-block;
+  margin-bottom: 15px;
+  padding: 0 20px; }
+
+.resume_item .year {
+  background-color: rgba(0, 60, 255, 0.86); }
+.resume_item .resume_description {
+  letter-spacing: 1px; }
+
+.s_portfolio li {
+  color: #888;
+  letter-spacing: 2px; }
+  .s_portfolio li.active {
+    color: #fff;
+    border-bottom: 1px solid rgba(0, 60, 255, 0.86); }
+
+.portfolio_item .port_item_cont a {
+  border-color: rgba(0, 60, 255, 0.86);
+  color: rgba(0, 60, 255, 0.86); }
+
+.contact_box h3 {
+  letter-spacing: 1px; }
+
+.icones {
+  color: rgba(0, 60, 255, 0.86); }
+
+.text-danger {
+  color: rgba(0, 60, 255, 0.86); }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid rgba(0, 60, 255, 0.86); }
+
+button {
+  background-color: rgba(0, 60, 255, 0.86);
+  letter-spacing: 2px; }
+
+.form-group {
+  letter-spacing: 1px;
+  color: #888; }
+
+/*# sourceMappingURL=tomato.css.map */
