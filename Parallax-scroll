@@ -1,0 +1,8 @@
+<div class="parallax-window" data-parallax="scroll" data-image-src="/path/to/image.jpg"></div>
+
+$('.parallax-window').parallax({imageSrc: '/path/to/image.jpg'});
+
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
